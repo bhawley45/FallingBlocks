@@ -3,6 +3,8 @@
 
  It's a fun mini-game where you play as a blue rectangle, moving left and right with A and D respectively. The goal is to survive as many seconds as possible without getting hit by an assortment of falling blocks. Each block has a random rotation and position above the player. The velocity of the blocks is increased the longer you survive. The screen also wraps so the player can move infinitely one direction if that's your thing.
 
+ Hope you enjoy! :D
+
  ---
 
  ### Important Note on Windows SmartScreen Warning
